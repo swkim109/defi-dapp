@@ -1,6 +1,6 @@
 ### Sample project for inflearn.com
 
-Start development in /app
+Start development server in /app
 ```
 yarn install
 yarn start
