@@ -23,7 +23,8 @@
   "dependencies": {
     "@openzeppelin/contracts": "^2.5.0",
     "@openzeppelin/test-helpers": "^0.5.5",
-    "truffle-plugin-verify": "^0.3.10"
+    "truffle-plugin-verify": "^0.3.10",
+    "web3": "1.2.11"
   },
   "devDependencies": {
     "@truffle/hdwallet-provider": "^1.0.33"
