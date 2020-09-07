@@ -23,6 +23,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "^2.5.0",
     "@openzeppelin/test-helpers": "^0.5.5",
+    "bl": "^4.0.3",
     "truffle-plugin-verify": "^0.3.10",
     "web3": "1.2.11"
   },
